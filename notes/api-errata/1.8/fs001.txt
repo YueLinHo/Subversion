@@ -1,4 +1,4 @@
-API ERRATA -- $Id$
+API ERRATA -- $Id: fs001.txt 1618882 2014-08-19 15:11:00Z stefan2 $
 
 Root Cause of Errata: implementation/docstring mismatch
  Library(s) Affected: libsvn_fs_fs, libsvn_fs_base, libsvn_repos

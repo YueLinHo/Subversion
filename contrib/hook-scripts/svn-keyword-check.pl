@@ -51,10 +51,10 @@
 # TXN="$2"
 # svn-keyword-check.pl --repos $REPOS --transaction $TXT --text .java --text .txt
 #
-# $HeadURL$
-# $LastChangedRevision$
-# $LastChangedDate$
-# $LastChangedBy$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/hook-scripts/svn-keyword-check.pl $
+# $LastChangedRevision: 1485350 $
+# $LastChangedDate: 2013-05-23 03:21:13 +0800 (週四, 23 五月 2013) $
+# $LastChangedBy: danielsh $
 
 BEGIN {
     if ( $] >= 5.006_000) {

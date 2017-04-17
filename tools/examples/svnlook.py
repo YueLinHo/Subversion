@@ -21,9 +21,9 @@
 #    under the License.
 ######################################################################
 #
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/tools/examples/svnlook.py $
+# $LastChangedDate: 2013-11-14 19:11:07 +0800 (週四, 14 十一月 2013) $
+# $LastChangedRevision: 1541878 $
 
 """
 svnlook.py can also be used as a Python module::

@@ -22,10 +22,10 @@
 #
 # mailer.py: send email describing a commit
 #
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/tools/hook-scripts/mailer/mailer.py $
+# $LastChangedDate: 2017-01-08 03:35:49 +0800 (週日, 08 一月 2017) $
+# $LastChangedBy: julianfoad $
+# $LastChangedRevision: 1777846 $
 #
 # USAGE: mailer.py commit      REPOS REVISION [CONFIG-FILE]
 #        mailer.py propchange  REPOS REVISION AUTHOR REVPROPNAME [CONFIG-FILE]

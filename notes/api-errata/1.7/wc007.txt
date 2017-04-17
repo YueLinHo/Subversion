@@ -1,4 +1,4 @@
-API ERRATA -- $Id$
+API ERRATA -- $Id: wc007.txt 1057925 2011-01-11 23:27:03Z stsp $
 
 Root Cause of Errata: 
  Library(s) Affected: libsvn_wc

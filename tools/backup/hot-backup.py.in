@@ -28,10 +28,10 @@
 #    under the License.
 # ====================================================================
 
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/tools/backup/hot-backup.py.in $
+# $LastChangedDate: 2015-12-21 23:02:31 +0800 (週一, 21 十二月 2015) $
+# $LastChangedBy: danielsh $
+# $LastChangedRevision: 1721179 $
 
 ######################################################################
 

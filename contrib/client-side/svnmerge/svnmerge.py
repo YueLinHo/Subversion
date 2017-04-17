@@ -30,10 +30,10 @@
 #   Dustin J. Mitchell <dustin at zmanda dot com> - support for multiple
 #     location identifier formats
 #
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/svnmerge/svnmerge.py $
+# $LastChangedDate: 2016-05-09 01:34:40 +0800 (週一, 09 五月 2016) $
+# $LastChangedBy: stefan2 $
+# $LastChangedRevision: 1742840 $
 #
 # Requisites:
 # svnmerge.py has been tested with all SVN major versions since 1.1 (both
@@ -158,8 +158,8 @@ def kwextract(s):
     except IndexError:
         return "<unknown>"
 
-__revision__ = kwextract('$Rev$')
-__date__ = kwextract('$Date$')
+__revision__ = kwextract('$Rev: 1742840 $')
+__date__ = kwextract('$Date: 2016-05-09 01:34:40 +0800 (週一, 09 五月 2016) $')
 
 # Additional options, not (yet?) mapped to command line flags
 default_opts = {

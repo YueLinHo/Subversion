@@ -6,10 +6,10 @@
 # or http://www.opensource.org/licenses/academic.php for a copy of the license
 # text.
 
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/svn_load_dirs/svn_load_dirs.pl.in $
+# $LastChangedDate: 2011-05-26 20:20:58 +0800 (週四, 26 五月 2011) $
+# $LastChangedBy: stsp $
+# $LastChangedRevision: 1127885 $
 
 $| = 1;
 
