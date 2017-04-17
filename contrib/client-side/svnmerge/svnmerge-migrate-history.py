@@ -17,10 +17,10 @@
 # history and logs, available at http://subversion.tigris.org/.
 # ====================================================================
 
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/svnmerge/svnmerge-migrate-history.py $
+# $LastChangedDate: 2016-05-09 01:34:40 +0800 (週一, 09 五月 2016) $
+# $LastChangedBy: stefan2 $
+# $LastChangedRevision: 1742840 $
 
 import warnings
 warnings.filterwarnings('ignore', '.*', DeprecationWarning)

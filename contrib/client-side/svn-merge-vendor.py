@@ -33,10 +33,10 @@
 # This tool is provided under GPL license.  Please read
 # http://www.gnu.org/licenses/gpl.html for the original text.
 #
-# $HeadURL$
-# $LastChangedRevision$
-# $LastChangedDate$
-# $LastChangedBy$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/svn-merge-vendor.py $
+# $LastChangedRevision: 1742840 $
+# $LastChangedDate: 2016-05-09 01:34:40 +0800 (週一, 09 五月 2016) $
+# $LastChangedBy: stefan2 $
 
 import os
 import re

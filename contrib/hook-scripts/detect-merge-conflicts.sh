@@ -5,10 +5,10 @@
 # or '>>>>>>> .' is found, the commit is aborted with a nice
 # error message.
 #
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/hook-scripts/detect-merge-conflicts.sh $
+# $LastChangedDate: 2013-04-11 10:38:26 +0800 (週四, 11 四月 2013) $
+# $LastChangedBy: julianfoad $
+# $LastChangedRevision: 1466758 $
 
 REPOS=$1
 TXN=$2

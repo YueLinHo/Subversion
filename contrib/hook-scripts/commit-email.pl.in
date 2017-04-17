@@ -17,10 +17,10 @@
 #
 # This script requires Subversion 1.2.0 or later.
 #
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/hook-scripts/commit-email.pl.in $
+# $LastChangedDate: 2010-01-29 07:24:20 +0800 (週五, 29 一月 2010) $
+# $LastChangedBy: neels $
+# $LastChangedRevision: 904301 $
 #
 # ====================================================================
 # Copyright (c) 2000-2006 CollabNet.  All rights reserved.

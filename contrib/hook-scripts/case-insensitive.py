@@ -54,10 +54,10 @@
 #   on dll's shipped as part of the Subversion binaries, if the script cannot
 #   load the _fs dll it is because it cannot find the other Subversion dll's.
 #
-# $HeadURL$
-# $LastChangedRevision$
-# $LastChangedDate$
-# $LastChangedBy$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/hook-scripts/case-insensitive.py $
+# $LastChangedRevision: 867334 $
+# $LastChangedDate: 2007-10-18 06:04:06 +0800 (週四, 18 十月 2007) $
+# $LastChangedBy: philip $
 
 import sys, locale
 sys.path.append('/usr/local/subversion/lib/svn-python')

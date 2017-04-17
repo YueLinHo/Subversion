@@ -17,10 +17,10 @@
 # history and logs, available at http://subversion.tigris.org/.
 # ====================================================================
 
-# $HeadURL$
-# $Date$
-# $Author$
-# $Rev$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/svnmerge/svnmerge-migrate-history-remotely.py $
+# $Date: 2016-04-30 16:16:53 +0800 (週六, 30 四月 2016) $
+# $Author: stefan2 $
+# $Rev: 1741723 $
 
 
 ### THE SVNMERGE HISTORY MIGRATION ALGORITHM EMPLOYED HEREIN

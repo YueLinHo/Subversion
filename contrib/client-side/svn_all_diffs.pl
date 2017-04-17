@@ -1,9 +1,9 @@
 #!/usr/bin/perl -w
 
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/svn_all_diffs.pl $
+# $LastChangedDate: 2008-03-25 22:42:32 +0800 (週二, 25 三月 2008) $
+# $LastChangedBy: arfrever $
+# $LastChangedRevision: 870115 $
 
 use strict;
 use Carp;

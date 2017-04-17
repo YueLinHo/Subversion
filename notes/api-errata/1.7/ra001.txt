@@ -1,4 +1,4 @@
-API ERRATA -- $Id$
+API ERRATA -- $Id: ra001.txt 1444173 2013-02-08 18:05:46Z breser $
 
 Root Cause of Errata: 
  Library(s) Affected: libsvn_ra, RA servers (svnserve, mod_dav_svn)

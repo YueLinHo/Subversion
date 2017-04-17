@@ -2,7 +2,7 @@
 ;; Copyright (C) 2002-2009 by Stefan Reichoer
 
 ;; Author: Stefan Reichoer <stefan@xsteve.at>
-;; $Id$
+;; $Id: psvn.el 1573006 2014-02-28 17:26:47Z breser $
 
 ;; psvn.el is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -256,7 +256,7 @@
       (require 'diff-mode))
   (error nil))
 
-(defconst svn-psvn-revision "$Id$"
+(defconst svn-psvn-revision "$Id: psvn.el 1573006 2014-02-28 17:26:47Z breser $"
   "The revision number of psvn.")
 
 ;;; user setable variables

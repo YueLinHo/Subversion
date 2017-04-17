@@ -70,10 +70,10 @@ Options:
 #   is actually set only on initial feed creation, and thereafter simply
 #   re-used from the pickle each time.
 
-# $HeadURL$
-# $LastChangedDate$
-# $LastChangedBy$
-# $LastChangedRevision$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/tools/hook-scripts/svn2feed.py $
+# $LastChangedDate: 2016-04-30 16:16:53 +0800 (週六, 30 四月 2016) $
+# $LastChangedBy: stefan2 $
+# $LastChangedRevision: 1741723 $
 
 import sys
 

@@ -18,7 +18,7 @@
 # under the License.
 #
 #
-# $Id$
+# $Id: reject-known-sha1-collisions.sh 1784763 2017-02-28 15:40:00Z stsp $
 #
 # Prevents some SHA-1 collisions to be committed
 # Test for the 320 byte prefix found on https://shattered.io/

@@ -5,8 +5,8 @@ Fix a bad FSFS revision file in-place.  Doesn't create backups.
 
 Usage: $0 REPO-DIR REVISION
 
-$LastChangedDate$
-$LastChangedRevision$
+$LastChangedDate: 2017-01-31 00:51:34 +0800 (週二, 31 一月 2017) $
+$LastChangedRevision: 1780939 $
 """
 
 import os, sys, re, subprocess
@@ -20,7 +20,7 @@ from fixer_config import *
 # Globals
 
 # URL = dirname(dirname(URL))
-URL = "$URL$"[6:-2]
+URL = "$URL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/server-side/fsfsfixer/fixer/fix-rev.py $"[6:-2]
 URL = URL[:URL.rindex('/', 0, URL.rindex('/'))]
 
 # Global dictionaries recording the fixes made

@@ -3,10 +3,10 @@
 # To do:
 # 1) Switch to using the Subversion Python bindings.
 #
-# $HeadURL$
-# $LastChangedRevision$
-# $LastChangedDate$
-# $LastChangedBy$
+# $HeadURL: https://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/svn_apply_autoprops.py $
+# $LastChangedRevision: 1741723 $
+# $LastChangedDate: 2016-04-30 16:16:53 +0800 (週六, 30 四月 2016) $
+# $LastChangedBy: stefan2 $
 #
 # Copyright (C) 2005,2006 Blair Zajac <blair@orcaware.com>
 #
